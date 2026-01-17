@@ -1,2 +1,2 @@
-# english-words
+# English Words
 Words from English Dictionary sorted by word length in txt and json format
